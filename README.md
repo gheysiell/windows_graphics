@@ -1,7 +1,6 @@
 # windows_graphics
 
-| ![Home](https://raw.githubusercontent.com/gheysiell/images/main/windows_graphics.png) | !
-|:---:|:---:|
+![Home](https://raw.githubusercontent.com/gheysiell/images/main/windows_graphics.png)
 
 ## Project made in C, with red rectangle
 
